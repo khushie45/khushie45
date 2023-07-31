@@ -1,13 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
         alt="Waving hand animated gif"
         height="45"
-        width="45" />, I'm Khushi Patel</h1>
+        width="45"               
+        />, I'm Khushi Patel</h1>
 <h3 align="center">A 4th year Computer Engineering student from Charusat University. A passionate frontend developer and a Data Science enthusiast.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
-- 👯 I’m looking to internships and gain as much professional experience as I can 🏢
-- 🥅 2023 Goals: Contribute more to Open Source projects! 
+- 🌱 I’m currently learning **Front-end development (ReactJS)**
+  
+- 👯 I’m looking for internships to gain as much professional experience as I can 🏢
+  
+- 🥅 2023 Goals: Contribute more to Open Source projects!
+  
 - ⚡ Fun fact: I love to travel and read books 📖
+  
 - 📫 How to reach me **khushipatel3340@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +34,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushie45&" alt="khushie45" /></p>
 
 <br>
-![Snake animation](https://github.com/khushie45/khushie45/blob/output/github-contribution-grid-snake.svg)
+<hr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manthanoice/manthanoice/152d85cde861ec3d1e755e729adc258e9934d772/github-contribution-grid-snake.svg?token=AQP436BEM6OUBWWMPNJOYCDB52LYM" alt="snake"></center>
+</p>
+
+<p align="left"> <a href="https://twitter.com/khushie45" target="blank"><img src="https://img.shields.io/twitter/follow/khushie45?logo=twitter&style=for-the-badge" alt="khushie45" /></a> </p>
+
