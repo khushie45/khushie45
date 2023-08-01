@@ -32,12 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushie45&show_icons=true&locale=en" alt="khushie45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushie45&" alt="khushie45" /></p>
-
-<br>
-<hr>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manthanoice/manthanoice/152d85cde861ec3d1e755e729adc258e9934d772/github-contribution-grid-snake.svg?token=AQP436BEM6OUBWWMPNJOYCDB52LYM" alt="snake"></center>
-</p>
-
-<p align="left"> <a href="https://twitter.com/khushie45" target="blank"><img src="https://img.shields.io/twitter/follow/khushie45?logo=twitter&style=for-the-badge" alt="khushie45" /></a> </p>
-
