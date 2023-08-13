@@ -13,6 +13,10 @@
   
 - ⚡ Fun fact: I love to travel and read books 📖
   
+- 📌 Portfolio: https://khushie-portfolio.netlify.app/
+
+- 📃 Resume: https://drive.google.com/file/d/1LGu63_VfNlYjrHdx5E1DyjBlrAPe90XC/view
+  
 - 📫 How to reach me **khushipatel3340@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
