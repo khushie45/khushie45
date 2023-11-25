@@ -15,7 +15,7 @@
   
 - 📌 Portfolio: https://khushie-portfolio.netlify.app/
 
-- 📃 Resume: https://drive.google.com/file/d/1LGu63_VfNlYjrHdx5E1DyjBlrAPe90XC/view
+- 📃 Resume: https://drive.google.com/file/d/14cfF9YKkhd_nvSnsu4ScHFPlEPIwK4TG/view
   
 - 📫 How to reach me **khushipatel3340@gmail.com**
 
