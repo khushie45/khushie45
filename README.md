@@ -13,7 +13,7 @@
   
 - ⚡ Fun fact: I love to travel and read books 📖
   
-- 📌 Portfolio: https://khushie-portfolio.netlify.app/
+- 📌 Portfolio: https://khushipatel.dev
 
 - 📃 Resume: https://drive.google.com/file/d/14cfF9YKkhd_nvSnsu4ScHFPlEPIwK4TG/view
   
