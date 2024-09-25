@@ -3,15 +3,15 @@
         height="45"
         width="45"               
         />, I'm Khushi Patel</h1>
-<h3 align="center">A 4th year Computer Engineering student from Charusat University. A passionate frontend developer and a Data Science enthusiast.</h3>
+<!-- <h3 align="center">A 4th year Computer Engineering student from Charusat University. A passionate frontend developer and a Data Science enthusiast.</h3> -->
 
-- 🌱 I’m currently learning **MERN Stack**
+<!-- - 🌱 I’m currently learning **MERN Stack** 
   
 - 👯 I’m looking for internships to gain as much professional experience as I can 🏢
   
-<!--- 🥅 2023 Goals: Contribute more to Open Source projects! -->
+- 🥅 2023 Goals: Contribute more to Open Source projects! 
   
-- ⚡ Fun fact: I love to travel and read books 📖
+- ⚡ Fun fact: I love to travel and read books 📖 -->
   
 - 📌 Portfolio: https://khushipatel.dev
 
